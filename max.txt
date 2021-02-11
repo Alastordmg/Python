@@ -1,0 +1,2 @@
+Se detecto un alto nivel de poder en la fila : 5
+Se detecto un alto nivel de poder en la fila : 6
